@@ -1,0 +1,12 @@
+.container{
+    text-align: center;
+}
+table{
+    margin:auto;
+}
+button{
+    font-size: 20px;
+    background: gray;
+    width: 35px ;
+    height: 35px ;
+}
